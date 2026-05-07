@@ -12,27 +12,33 @@ function Birthday() {
   const pages = [
     {
       id: 1,
-      title: "Halo, Jemboet! 🎉",
-      content: "Ada surprise spesial buat kamu!",
-      emoji: "🎁"
+      title: "Halo, Jemboet 🫂",
+      content: "Aku disini untuk kamu. Tidak apa-apa untuk menangis.",
+      emoji: "🤗"
     },
     {
       id: 2,
-      title: "Selamat Ulang Tahun! 🎂",
-      content: "Semoga hari ini penuh kebahagiaan dan tawa!",
-      emoji: "🎈"
+      title: "Kamu Tidak Sendiri 💙",
+      content: "Setiap air mata yang jatuh, aku disini mendampingimu.",
+      emoji: "🌊"
     },
     {
       id: 3,
-      title: "Wish You All The Best! ⭐",
-      content: "Semoga semua impianmu tercapai dan selalu bahagia!",
-      emoji: "🌟"
+      title: "Kamu Kuat Banget! 💪",
+      content: "Sudah sejauh ini kamu bertahan. Itu luar biasa!",
+      emoji: "🌸"
     },
     {
       id: 4,
-      title: "Love You! ❤️",
-      content: "Semoga kita selalu bersama dan membuat kenangan indah!",
-      emoji: "💕"
+      title: "Semuanya Akan Baik-baik Saja 🌈",
+      content: "Setelah hujan, akan ada pelangi. Aku percaya kamu!",
+      emoji: "✨"
+    },
+    {
+      id: 5,
+      title: "Aku Sayang Kamu 💕",
+      content: "Terima kasih sudah menjadi dirimu yang luar biasa.",
+      emoji: "❤️"
     }
   ]
 
