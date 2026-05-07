@@ -36,9 +36,9 @@ function Birthday() {
     },
     {
       id: 5,
-      title: "Aku Sayang Kamu 💕",
-      content: "Terima kasih sudah menjadi dirimu yang luar biasa.",
-      emoji: "❤️"
+      title: "Kamu Berharga Banget! ✨",
+      content: "Dunia ini lebih indah karena ada kamu di dalamnya.",
+      emoji: "💫"
     }
   ]
 
