@@ -12,7 +12,7 @@ function Birthday() {
   const pages = [
     {
       id: 1,
-      title: "Halo, Abhi! 🎉",
+      title: "Halo, Jemboet! 🎉",
       content: "Ada surprise spesial buat kamu!",
       emoji: "🎁"
     },
