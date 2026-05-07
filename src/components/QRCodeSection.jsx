@@ -2,7 +2,7 @@ import { QRCodeSVG } from 'qrcode.react'
 import './QRCodeSection.css'
 
 function QRCodeSection() {
-  const networkUrl = 'https://eighty-birds-walk.loca.lt'
+  const networkUrl = window.location.origin
 
   return (
     <section className="qr-section" id="qr">
